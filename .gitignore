@@ -15,3 +15,5 @@ infra/crash.log
 
 # SSH private keys - never commit these
 *.pem
+
+*accessKeys*.csv
