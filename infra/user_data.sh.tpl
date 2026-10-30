@@ -47,7 +47,7 @@ wait_for_apt
 apt-get install -y caddy
 
 # --- Clone FinSight ---
-git clone https://github.com/TrimStream/FinSight.git /opt/finsight
+git clone https://github.com/EshaanS/FinSight.git /opt/finsight
 cd /opt/finsight
 
 # --- Write .env.prod for the backend + python containers ---
