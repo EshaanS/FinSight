@@ -1,6 +1,6 @@
 # FinSight
 
-A full-stack financial intelligence platform combining real-time stock data with AI-powered natural language queries. Ask questions in plain English, get SQL-backed answers.
+A full-stack financial intelligence platform combining daily stock data with AI-powered natural language queries. Ask questions in plain English, get SQL-backed answers.
 
 **🔗 Live:** [eshaan-finsight.vercel.app](https://eshaan-finsight.vercel.app)
 
@@ -41,7 +41,7 @@ Ask questions like:
 
 1. Clone and install:
 ```bash
-git clone https://github.com/TrimStream/FinSight.git
+git clone https://github.com/EshaanS/FinSight.git
 cd FinSight
 cd backend && go mod download
 cd ../python && pip install -r requirements.txt
@@ -104,4 +104,4 @@ MIT
 
 ---
 
-**Eshaan Singh** • [Portfolio](https://trimstream.github.io) • [GitHub](https://github.com/TrimStream)
+**Eshaan Singh** • [Portfolio](https://eshaans.github.io) • [GitHub](https://github.com/EshaanS)
